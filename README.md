@@ -525,6 +525,7 @@ grunt.initConfig({
 
 ## Release History
 
+ * 2018-07-24   v3.3.1   Update uglify-js to v3.4.5.
  * 2017-12-24   v3.3.0   Update uglify-js to v3.3.0.
  * 2017-11-26   v3.2.1   Update uglify-js to v3.2.0.
  * 2017-09-11   v3.1.0   Update uglify-js to v3.1.0.
